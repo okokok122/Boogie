@@ -1,3 +1,3 @@
 # BoogieFN-Hybrid
 
-❯ Download BoogieFN From [HERE](https://github.com/BoogieFN/BoogieFN-Hybrid/releases)
+❯ Download The Most Recent Release Of BoogieFN From [Here](https://github.com/BoogieFN/BoogieFN-Hybrid/releases)
