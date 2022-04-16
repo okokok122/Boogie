@@ -1,6 +1,9 @@
 # BoogieFN-Hybrid
 ### Made By Pirxcy And noteason
 
+### FAQ:
+### Why is BoogieFN Showing up as a virus? BoogieFN is not a virus, Your Pc May think its a virus because it replaces files in Fortnite. The launcher is Open Source If You Want To See For Yourself
+
 # Installation
 #### ❯ Download release.rar The Most Recent Version Of BoogieFN From [Here](https://github.com/BoogieFN/BoogieFN-Hybrid/releases)
 #### ❯ extract the files
