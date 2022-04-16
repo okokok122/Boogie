@@ -3,7 +3,7 @@
 
 
 # Installation
-#### ❯ You (Might) Have to disable antivirus but dont worry BoogieFN is not a virus, it just replaces 3 files in Fortnite causing your antivirus to think it is a virus
+#### ❯ You (Might) Have to disable antivirus but dont worry BoogieFN is not a virus, it just replaces 3 files in Fortnite causing your antivirus to think it is a virus [Launcher Source](https://github.com/BoogieFN/BoogieFN-Launcher)
 #### ❯ Download release.rar The Most Recent Version Of BoogieFN From [Here](https://github.com/BoogieFN/BoogieFN-Hybrid/releases)
 #### ❯ extract the files
 #### ❯ open the BoogieFN Application (do not touch config.json unless you know what you are doing)
