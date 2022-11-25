@@ -5,7 +5,7 @@
 
 
 ### Backend is made by Pirxcy And noteason
-### Launcher Made By Reksely
+### Launcher Made By noteason
 
 
 # Installation
