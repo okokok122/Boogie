@@ -1,7 +1,22 @@
-# Boogie Hybrid
-<a target="_blank" href="discord.gg/HfNfDQnPb6" title="Join our Discord!">
-<img draggable="false" src="https://discordapp.com/api/guilds/931381302714855425/widget.png?style=banner2" height="76px" draggable="false" alt="Join the discord!">
-</a>
+## Boogie Releases <img src="https://raw.githubusercontent.com/ilovekids2/ilovekids2/master/wave.gif" width="30px">
+This is Source Code For HorionFN
+
+## ⚡ Languages used
+The Backend is Fully Coded with
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+The Launcher is Fully Coded in .NET (C# + WPF)
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+
+The SSL Curl is Fully Coded in C / C++
+![C++](https://img.shields.io/badge/C-C%2B%2B-blue)
+
+
+## Credits                                                                                                                          
+cosmetic data By [Fortnite Api](https://fortnite-api.com/)
+
+
+
 
 Boogie is non-official and not endorsed by Epic Games in any way.
 Epic Games, Fortnite, and all associated properties are trademarks or registered trademarks of Epic Games, Inc.
