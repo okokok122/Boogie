@@ -13,7 +13,7 @@ The SSL Curl is Fully Coded in C / C++
 
 
 ## Credits                                                                                                                          
-cosmetic data By [Fortnite Api](https://fortnite-api.com/)
+Cosmetic data provided by [Fortnite Api](https://fortnite-api.com/)
 
 
 
