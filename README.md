@@ -14,7 +14,7 @@ The SSL Curl is Fully Coded in C / C++
 
 ## Credits                                                                                                                          
 Cosmetic data provided by [Fortnite API](https://fortnite-api.com/)
-
+Endpoint Information: [FortniteEndpointsDocumentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation)
 
 
 
